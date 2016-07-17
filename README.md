@@ -101,6 +101,10 @@ Check the [configuration guide](https://github.com/Ecuacion/Pokemon-Showdown-Nod
 **Console Config**
  - `Config.debug`: Specify which console messages are shown
 
+# Youtube
+
+- [Click Here](https://www.youtube.com/watch?v=9zSZGj75suU)
+
 Credits
 -----------
 
